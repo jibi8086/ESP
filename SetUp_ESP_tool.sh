@@ -7,3 +7,7 @@
 
 
 https://arduino-esp8266.readthedocs.io/en/latest/faq/a04-board-generic-is-unknown.html
+
+
+
+https://github.com/FirebaseExtended/firebase-arduino
